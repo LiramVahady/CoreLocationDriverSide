@@ -20,6 +20,10 @@
 				</dict>
 			</array>
 		</dict>
+		<key></key>
+		<false/>
 	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Give us permission to your location</string>
 </dict>
 </plist>
