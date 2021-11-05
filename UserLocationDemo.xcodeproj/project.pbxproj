@@ -15,7 +15,7 @@
 		8C8590EE273328BE00E88836 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8C8590ED273328BE00E88836 /* GoogleService-Info.plist */; };
 		8C8591252734392600E88836 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C8590DD2731EE2800E88836 /* ViewController.swift */; };
 		8C8591272734397900E88836 /* DatabaseService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C8591262734397900E88836 /* DatabaseService.swift */; };
-		8C859130273504CB00E88836 /* Extenssion+ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C85912F273504CB00E88836 /* Extenssion+ViewController.swift */; };
+		8C8591332735056000E88836 /* Extenssion+ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C8591322735056000E88836 /* Extenssion+ViewController.swift */; };
 		B6A39E47F5759FB4150DCDE7 /* Pods_UserLocationDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4A520E3363B42AC99328547 /* Pods_UserLocationDemo.framework */; };
 /* End PBXBuildFile section */
 
@@ -31,7 +31,7 @@
 		8C8590E72731EE2B00E88836 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8C8590ED273328BE00E88836 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		8C8591262734397900E88836 /* DatabaseService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseService.swift; sourceTree = "<group>"; };
-		8C85912F273504CB00E88836 /* Extenssion+ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extenssion+ViewController.swift"; sourceTree = "<group>"; };
+		8C8591322735056000E88836 /* Extenssion+ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extenssion+ViewController.swift"; sourceTree = "<group>"; };
 		B4A520E3363B42AC99328547 /* Pods_UserLocationDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UserLocationDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBDFDE4CB1E6CE8AC7382921 /* Pods-UserLocationDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UserLocationDemo.release.xcconfig"; path = "Target Support Files/Pods-UserLocationDemo/Pods-UserLocationDemo.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -103,7 +103,7 @@
 		8C8590F62733725900E88836 /* Extenssions */ = {
 			isa = PBXGroup;
 			children = (
-				8C85912F273504CB00E88836 /* Extenssion+ViewController.swift */,
+				8C8591322735056000E88836 /* Extenssion+ViewController.swift */,
 			);
 			path = Extenssions;
 			sourceTree = "<group>";
@@ -245,7 +245,7 @@
 				8C8591272734397900E88836 /* DatabaseService.swift in Sources */,
 				8C8590DA2731EE2800E88836 /* AppDelegate.swift in Sources */,
 				8C8590DC2731EE2800E88836 /* SceneDelegate.swift in Sources */,
-				8C859130273504CB00E88836 /* Extenssion+ViewController.swift in Sources */,
+				8C8591332735056000E88836 /* Extenssion+ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
